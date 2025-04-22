@@ -20,7 +20,7 @@ Este proyecto es una aplicación simple en React que muestra tarjetas de ciudade
 
 ## 📸 Captura de pantalla
 
-![Vista previa de la app](./CITY-CARDS.jpg)
+![Cómo se ve](./imagenes/CITY-CARDS.jpg)
 
 ## 🚀 Cómo correr el proyecto
 
