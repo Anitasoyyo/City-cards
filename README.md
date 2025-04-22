@@ -22,10 +22,11 @@ Este proyecto es una aplicación simple en React que muestra tarjetas de ciudade
 
 ![Captura de la app](public/imagenes/CITY-CARDS.jpg)
 
-## 🚀 Cómo correr el proyecto
+## 🚀 Cómo probar el proyecto
 
 1. Clona este repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/Anitasoyyo/City-cards.git
+cd City-cards
 ```
