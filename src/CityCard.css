@@ -1,0 +1,80 @@
+/* CityCard.css */
+.city-card {
+  max-width: 400px;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 16px;
+  background: #e3e4ea;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.city-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.city-content {
+  padding: 24px;
+  font-family: "winky Rough", sans-serif;
+}
+
+.city-title {
+  font-size: 1.5rem;
+  margin-bottom: 8px;
+  color: #2d3748;
+  font-family: "winky Rough", sans-serif;
+}
+
+.city-tagline {
+  font-weight: 600;
+  color: #4a5568;
+  margin-bottom: 8px;
+}
+
+.city-description {
+  color: #718096;
+  margin-bottom: 16px;
+  line-height: 1.5;
+}
+
+.city-button {
+  width: 100%;
+  padding: 12px;
+  background: #e1bc42;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-bottom: 16px;
+  transition: background 0.2s;
+  font-family: "winky Rough", sans-serif;
+  letter-spacing: 1px;
+}
+
+.city-button:hover {
+  background: #be8c0f;
+}
+
+.city-stats {
+  display: flex;
+  justify-content: space-between;
+  color: #718096;
+}
+
+.city-stat {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.city-icon {
+  font-size: 1rem;
+}
+
+.city-icon-heart {
+  color: #ff0000;
+}
